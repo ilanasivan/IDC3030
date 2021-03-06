@@ -13,9 +13,9 @@ HW3 Python - 98
 
 HW4 Python - 96 
 
-HW5 SQL, Java - 97 
+HW5 SQL, Java - 97 (not included)
 
-HW6 Javascript, HTML/CSS - 105
+HW6 Javascript, HTML/CSS - 105 
 
 
 Quiz average: 100
