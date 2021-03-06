@@ -1,0 +1,36 @@
+Q1:
+You should catch IO Exceptions when reading or writing to a stream. 
+
+=========================================================
+Q2:
+You should catch IO Exceptions when reading or writing to a stream. 
+
+=========================================================
+Q3:
+You should catch IO Exceptions when reading or writing to a stream. 
+
+=========================================================
+Q4:
+
+
+=========================================================
+Q5:
+You should catch IO Exceptions. (-2)
+Your implementation of Bubble sort is less efficient since the inner loop iterates the entire file every iteration. However, this is not needed since in Bubble sort
+the largest element which is not yet in place will be in place until the end of the iteration, so no need to go over it in the next iteration. (-2)
+You have redundant seek() calls - remember that read()/write() advances the pointer. (-3)
+Try using meaningful variables names (e.g. no 'a', 'b', 'n').
+
+=========================================================
+Q6:
+Same comments as Q5.
+
+By the way, in Q6 you implemented the 'efficient' Bubble sort (you subtracted 'i' in the inner loop condition). Why there is a difference between Q5 and Q6?
+Also, why do you use int i,j in Q5, but long i,j in Q6?
+
+=========================================================
+Q7:
+Great work!
+
+
+=========================================================
